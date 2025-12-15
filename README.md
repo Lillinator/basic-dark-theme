@@ -1,2 +1,2 @@
-#Basic Dark theme
+# Basic Dark theme
 a dark Discourse theme 
