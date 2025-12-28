@@ -1,21 +1,4 @@
-// image alignment with text in posts
-
-[data-theme-image="left"] {
-    float: left;
-    img {
-      margin: 1em 1em 0 0;
-    }
-}
-
-[data-theme-image="right"] {
-    float: right;
-    img {
-      margin: 0em 0em 0em 1em;
-    }
-}
-
 // * body contents
-
 
 .wrap {
     max-width: var(--d-max-width);
