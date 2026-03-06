@@ -35,7 +35,7 @@
 .nav-pills > li > a {
     font-size: 16px;
     font-weight: bold;
-    border-radius: 12px;
+    border-radius: var(--d-border-radius);
     padding: 8px 12px 8px 12px;
 }
 
