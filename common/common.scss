@@ -40,13 +40,13 @@
 }
 
 .btn, .select-kit.dropdown-select-box .dropdown-select-box-header {
-  border-radius: 10px;
+  border-radius: var(--d-border-radius);
   padding: 8px 12px 8px 12px;
 }
 
 // post navigation buttons
 
 nav.post-controls .actions button {
-  border-radius: 10px;
+  border-radius: var(--d-border-radius);
   padding: 8px 12px 8px 12px;
 }
